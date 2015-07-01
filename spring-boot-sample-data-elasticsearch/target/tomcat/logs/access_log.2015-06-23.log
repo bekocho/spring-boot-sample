@@ -1,0 +1,8 @@
+127.0.0.1 - - [23/Jun/2015:16:52:23 +0200] "GET /favicon.ico HTTP/1.1" 200 2862
+127.0.0.1 - - [23/Jun/2015:16:52:24 +0200] "GET /users/findAll HTTP/1.1" 404 307
+127.0.0.1 - - [23/Jun/2015:16:52:24 +0200] "GET /users/findAll HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2015:16:52:31 +0200] "GET /customer/findAll HTTP/1.1" 200 148
+127.0.0.1 - - [23/Jun/2015:16:55:02 +0200] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [23/Jun/2015:16:55:04 +0200] "GET /webjars/bootstrap/3.0.3/js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/Jun/2015:16:55:05 +0200] "GET /webjars/bootstrap/3.0.3/css/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/Jun/2015:16:55:05 +0200] "GET /webjars/jquery/2.0.3/jquery.min.js HTTP/1.1" 304 -

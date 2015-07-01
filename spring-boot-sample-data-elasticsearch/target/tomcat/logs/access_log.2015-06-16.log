@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Jun/2015:23:03:40 +0200] "GET /customer/findAll HTTP/1.1" 200 148
+127.0.0.1 - - [16/Jun/2015:23:03:45 +0200] "GET /webjars/bootstrap/3.0.3/css/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [16/Jun/2015:23:03:45 +0200] "GET /webjars/jquery/2.0.3/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Jun/2015:23:03:45 +0200] "GET /webjars/bootstrap/3.0.3/js/bootstrap.min.js HTTP/1.1" 304 -
